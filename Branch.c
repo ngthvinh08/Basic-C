@@ -11,5 +11,6 @@ int main(){
     scanf ("%d", &n);
     int result = factorial(n);
     printf ("Giai thua cua %d la: %d\n", n, result);
+    printf ("Vinh da viet code nay\n");
     return 0;
 }
